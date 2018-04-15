@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bakalarka</string>
+    <string name="playStr">Play</string>
+    <string name="scoreboardStr">Scoreboard</string>
+    <string name="settingsStr">Settings</string>
+    <string name="exitStr">Exit</string>
+    <string name="continueStr">Continue</string>
+    <string name="maxHealth">Increase max health</string>
+    <string name="maxPillum">Increase max pillum count</string>
+    <string name="cooldownTime">Reduce cooldown</string>
+    <string name="throwRange">Increase throw range</string>
+    <string name="heal">Heal</string>
+    <string name="scoreBtn">Scoreboard</string>
+    <string name="entername">Enter your name</string>
+</resources>
